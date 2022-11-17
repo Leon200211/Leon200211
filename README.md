@@ -34,6 +34,7 @@ Languages and Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
+
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
@@ -42,6 +43,7 @@ Languages and Tools
 
 <!---Для подробной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leon200211)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leon200211)](https://github.com/anuraghazra/github-readme-stats)
 
