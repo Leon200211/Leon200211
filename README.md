@@ -49,10 +49,12 @@ Languages and Tools
 
 
 🏆 Достижения :
-|          |           |          |
-| <img src="https://github.com/Leon200211/Leon200211/blob/main/file_1.png" width="200" height="200">     | ---       | ---      |
-| Backtick | `         | ---      |
-| Pipe     | \|        | ---      |
+|                                                                                                        |           |          |
+|                                                                                                        | ---       | ---      |
+| <img src="https://github.com/Leon200211/Leon200211/blob/main/file_1.png" width="200" height="200">     |           | ---      |
+
+
+
 <img src="[http://url.to/image.png](https://github.com/Leon200211/Leon200211/assets/91278041/e5d0c661-1075-42c7-a9ad-a93bd62959eb)" width="200" height="200">
 ![certificate (5)-1](https://github.com/Leon200211/Leon200211/assets/91278041/e5d0c661-1075-42c7-a9ad-a93bd62959eb)
 ![2 место-1](https://github.com/Leon200211/Leon200211/assets/91278041/e08d63fe-2832-4185-ab53-1ae9c998534b)
