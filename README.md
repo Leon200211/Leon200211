@@ -50,7 +50,7 @@ Languages and Tools
 
 🏆 Достижения :
 |                                                                                                        |           |          |
-|                                                                                                        | ---       | ---      |
+| ---                                                                                                    | ---       | ---      |
 | <img src="https://github.com/Leon200211/Leon200211/blob/main/file_1.png" width="200" height="200">     |           | ---      |
 
 
