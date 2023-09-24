@@ -1,5 +1,3 @@
-![Финалист-1](https://github.com/Leon200211/Leon200211/assets/91278041/4bd1010e-8aae-461b-8d00-52e3f5ef6774)
-
 <h1 align="center">Hi there, I'm <a href="#" target="_blank">Leon</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
@@ -51,7 +49,7 @@ Languages and Tools
 
 
 🏆 Достижения :
-![certificate (5)-1](https://github.com/Leon200211/Leon200211/assets/91278041/e5d0c661-1075-42c7-a9ad-a93bd62959eb)
+![certificate (5)-1](https://github.com/Leon200211/Leon200211/assets/91278041/e5d0c661-1075-42c7-a9ad-a93bd62959eb=250×250)
 ![2 место-1](https://github.com/Leon200211/Leon200211/assets/91278041/e08d63fe-2832-4185-ab53-1ae9c998534b)
 ![certificate (4)-1](https://github.com/Leon200211/Leon200211/assets/91278041/01b121a3-80ab-47aa-9a23-ad24bdd46ce4)
 ![Diplom_finalista_3_mesto_40-1](https://github.com/Leon200211/Leon200211/assets/91278041/d2ab31d5-8c64-49d9-a0bf-e7d3b5dba4d4)
