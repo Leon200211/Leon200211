@@ -53,7 +53,7 @@ Languages and Tools
 | ---                                                                                                    | ---       | ---      |
 | <img src="https://github.com/Leon200211/Leon200211/blob/main/file_3.png" width="250" height="400">     | <img src="https://github.com/Leon200211/Leon200211/blob/main/file_6.jpg" width="250" height="400">          | <img src="https://github.com/Leon200211/Leon200211/blob/main/file_5.png" width="250" height="400">      |
 | <img src="https://github.com/Leon200211/Leon200211/blob/main/file_2.png" width="250" height="400">     | <img src="https://github.com/Leon200211/Leon200211/blob/main/image.png" width="250" height="400">          | <img src="https://github.com/Leon200211/Leon200211/blob/main/file_1.png" width="250" height="400"> |
-| <img src="https://github.com/Leon200211/Leon200211/blob/main/file_4.png" width="250" height="400">     |           |          |
+| <img src="https://github.com/Leon200211/Leon200211/blob/main/file_4.png" width="250" height="400">     | <img src="https://github.com/Leon200211/Leon200211/blob/main/file_7.png" width="250" height="400">         |          |
 
 
 Latest blogs
